@@ -14,3 +14,7 @@ To build a strong Python foundation for future projects.
 
 📈 Status:
 Actively updated daily.
+
+### ✅ Day 2 Update
+- Implemented reusable functions
+- Added number classification mini program
