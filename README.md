@@ -18,3 +18,7 @@ Actively updated daily.
 ### ✅ Day 2 Update
 - Implemented reusable functions
 - Added number classification mini program
+
+### ✅ Day 3 Update
+- Implemented grade system using conditional statements
+- Demonstrated for loop and while loop usage
