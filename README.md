@@ -58,7 +58,15 @@ Actively maintained with daily commits and continuous improvements.
 **Garvit Goswami**  
 BCA Student | Python Learner | Aspiring Software & AI Developer
 
+Final polish and showcase update
+This project represents my disciplined learning journey...
+
+
 
 ### ✅ Day 9 Update
 - Refactored code for better readability
 - Added comments and improved variable naming
+
+- ⭐ If you find this repository useful, feel free to star it!
+
+
