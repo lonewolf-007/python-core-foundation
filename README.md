@@ -22,3 +22,7 @@ Actively updated daily.
 ### ✅ Day 3 Update
 - Implemented grade system using conditional statements
 - Demonstrated for loop and while loop usage
+
+### ✅ Day 4 Update
+- Practiced Python data structures: list, tuple, set, dictionary
+- Implemented iteration and basic operations
