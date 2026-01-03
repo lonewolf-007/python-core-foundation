@@ -1,40 +1,59 @@
 # Python Core Foundation 🐍
 
-This repository contains my Python fundamentals practice.
+A structured and continuously updated repository showcasing my Python fundamentals,
+logic-building skills, and mini projects.
 
-## Topics Covered
+---
+
+## 📌 Purpose
+This repository is created to strengthen my core Python concepts and to build
+a solid foundation for advanced topics such as Machine Learning, Backend Development,
+and Automation.
+
+---
+
+## 🧠 Topics Covered
 - Variables and Data Types
-- Control Flow
+- Conditional Statements (if-else)
+- Loops (for, while)
 - Functions
-- Data Structures
-- Mini Programs
+- Error Handling (try-except)
+- File Handling (read/write)
+- Data Structures (list, tuple, set, dictionary)
 
-📌 Purpose:
-To build a strong Python foundation for future projects.
+---
 
-📈 Status:
-Actively updated daily.
+## 🛠️ Mini Programs & Projects
+- Calculator Program
+- Number Classification Program
+- Grade System
+- File Reader & Writer
+- CLI Based To-Do Application
 
-### ✅ Day 2 Update
-- Implemented reusable functions
-- Added number classification mini program
+---
 
-### ✅ Day 3 Update
-- Implemented grade system using conditional statements
-- Demonstrated for loop and while loop usage
+## 🧪 Tech Stack
+- Python 3.x
+- Git & GitHub
 
-### ✅ Day 4 Update
-- Practiced Python data structures: list, tuple, set, dictionary
-- Implemented iteration and basic operations
+---
 
-### ✅ Day 5 Update
-- Implemented error handling using try-except blocks
-- Handled ZeroDivisionError and ValueError
+## 📈 Learning Progress
+- Day 1: Project setup & Python basics
+- Day 2: Functions and logic building
+- Day 3: Control flow and loops
+- Day 4: Data structures
+- Day 5: Error handling
+- Day 6: File handling
+- Day 7: CLI To-Do mini project
 
-### ✅ Day 6 Update
-- Implemented file writing and reading using Python
-- Demonstrated basic file handling operations
+---
 
-### ✅ Day 7 Update
-- Built a command-line To-Do application
-- Implemented menu-driven program with functions and loops
+## 🚀 Status
+Actively maintained with daily commits and continuous improvements.
+
+---
+
+## 👤 Author
+**Garvit Goswami**  
+BCA Student | Python Learner | Aspiring Software & AI Developer
