@@ -1,12 +1,15 @@
 tasks = []
 
 def show_tasks():
+    """Display all added tasks."""
     if not tasks:
         print("No tasks available.")
-    else:
-        print("\nYour Tasks:")
-        for index, task in enumerate(tasks, start=1):
-            print(f"{index}. {task}")
+        return
+
+    print("\nYour Tasks:")
+    for index, task in enumerate(tasks, start=1):
+        print(f"{index}. {task}")
+
 
 while True:
     print("\n--- TO-DO MENU ---")
@@ -14,17 +17,17 @@ while True:
     print("2. View Tasks")
     print("3. Exit")
 
-    choice = input("Choose an option (1/2/3): ")
+    user_choice = input("Choose an option (1/2/3): ")
 
-    if choice == "1":
-        task = input("Enter task: ")
-        tasks.append(task)
+    if user_choice == "1":
+        new_task = input("Enter task: ")
+        tasks.append(new_task)
         print("Task added successfully.")
 
-    elif choice == "2":
+    elif user_choice == "2":
         show_tasks()
 
-    elif choice == "3":
+    elif user_choice == "3":
         print("Exiting To-Do App. Goodbye!")
         break
 

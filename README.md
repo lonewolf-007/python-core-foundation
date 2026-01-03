@@ -57,3 +57,8 @@ Actively maintained with daily commits and continuous improvements.
 ## 👤 Author
 **Garvit Goswami**  
 BCA Student | Python Learner | Aspiring Software & AI Developer
+
+
+### ✅ Day 9 Update
+- Refactored code for better readability
+- Added comments and improved variable naming
