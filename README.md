@@ -34,3 +34,7 @@ Actively updated daily.
 ### ✅ Day 6 Update
 - Implemented file writing and reading using Python
 - Demonstrated basic file handling operations
+
+### ✅ Day 7 Update
+- Built a command-line To-Do application
+- Implemented menu-driven program with functions and loops
