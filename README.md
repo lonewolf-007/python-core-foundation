@@ -30,3 +30,7 @@ Actively updated daily.
 ### ✅ Day 5 Update
 - Implemented error handling using try-except blocks
 - Handled ZeroDivisionError and ValueError
+
+### ✅ Day 6 Update
+- Implemented file writing and reading using Python
+- Demonstrated basic file handling operations
