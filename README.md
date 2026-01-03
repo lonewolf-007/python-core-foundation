@@ -26,3 +26,7 @@ Actively updated daily.
 ### ✅ Day 4 Update
 - Practiced Python data structures: list, tuple, set, dictionary
 - Implemented iteration and basic operations
+
+### ✅ Day 5 Update
+- Implemented error handling using try-except blocks
+- Handled ZeroDivisionError and ValueError
